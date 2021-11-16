@@ -4,4 +4,3 @@ torchvision==0.9.1+cpu
 fastai
 voila
 ipywidgets
-re
